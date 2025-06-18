@@ -91,17 +91,5 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contribution
-
-Feel free to fork the repo, submit issues, and create pull requests!
-
----
-
-## Contact
-
-For questions or feedback, reach out to:  
-**Your Name** — your.email@example.com  
-
----
 
 Enjoy managing your finances with ease! 💸✨
